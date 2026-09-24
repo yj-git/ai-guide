@@ -6,5 +6,6 @@
       "name": "docs-dev",
       "command": "NODE_OPTIONS=--openssl-legacy-provider npm run docs:dev"
     }
-  ]
+  ],
+  "ports": [8080]
 }
